@@ -25,3 +25,8 @@ Note: you can concatenate an integer and a String and the integer will be conver
 will be evaluated as the String:
 
 > "There are 7 days in a week."
+
+
+## Task for celcius
+
+Write Java code to define a double variable called `fahrenheit` and set it to an initial value between 0 and 100. Then, create a double variable called `celsius`, and calculate its value based on the value of `fahrenheit`. (To convert from Fahrenheit to Celsius, subtract 32, then multiply by 5, then divide by 9.) Finally, print the final value of `celsius`.
